@@ -8,7 +8,7 @@ branches:
 
 environment: 
   my_variable: 
-    secure: 0x9ZOHSNUCxfNs2EfSr/vmnja6KbAh96vOGsxbDEGEGpi09soAj7mgzJv/sxe4js
+    secure: p6LwJlUVo0UDXUJ8OJvgnbo6X571BQZKNd4O8Qk6bFWX+esGUXwy9zggluldglNS
 
 install:
   - git submodule update --init --recursive # 每一次编译之前拉取最新的主题submodule
