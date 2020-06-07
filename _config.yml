@@ -124,13 +124,10 @@ theme_config:
     subtitle: '日本动漫鉴赏、交流与二次创作'
     search: 'Search'
     features:
-      - name: 博文
-        icon: fas fa-rss
-        url: /archives/
-      - name: 组织机构
+      - name: 部门介绍
         icon: fas fa-file-code
         url: /group/
-      - name: 友情链接
+      - name: 活跃社员
         icon: fas fa-handshake
         url: /links/
       - name: B站
@@ -143,9 +140,7 @@ theme_config:
         url: https://baike.baidu.com/item/%E4%B8%89%E5%B3%A1%E5%A4%A7%E5%AD%A6%E6%B0%B4%E6%9E%9D%E5%A4%8F%E5%8A%A8%E6%BC%AB%E7%A4%BE/22504142?fr=aladdin
         rel: external nofollow noopener noreferrer
         target: _blank
-      - name: 帮助
-        icon: fas fa-book
-        url: /manual/
+
   
   navbar:
     logo: # choose [img] or [icon + title]
@@ -154,28 +149,6 @@ theme_config:
       title: 水枝夏动漫社
     menu:
     # The following can be written in `blog/source/_data/menu.yml`
-      - name: 博文
-        icon: fas fa-rss
-        url: /archives/
-      - name: 组织机构
-        icon: fas fa-file-code
-        url: /group/
-      - name: 友情链接
-        icon: fas fa-handshake
-        url: /links/
-      - name: B站
-        icon: fas fa-play-circle
-        url: https://space.bilibili.com/474000560
-        rel: external nofollow noopener noreferrer
-        target: _blank
-      - name: 关于
-        icon: fas fa-file-code
-        url: https://baike.baidu.com/item/%E4%B8%89%E5%B3%A1%E5%A4%A7%E5%AD%A6%E6%B0%B4%E6%9E%9D%E5%A4%8F%E5%8A%A8%E6%BC%AB%E7%A4%BE/22504142?fr=aladdin
-        rel: external nofollow noopener noreferrer
-        target: _blank
-      - name: 帮助
-        icon: fas fa-book
-        url: /manual/
     search: Search...   # Search bar placeholder
 
   meta:

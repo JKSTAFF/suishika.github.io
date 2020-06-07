@@ -1,0 +1,32 @@
+- name: 组织
+  icon: fas fa-book
+  rows:
+    - name: 部门简介
+      icon: fas fa-globe-asia
+      url: /group/
+
+    - name: STAFF成员
+      icon: fas fa-handshake
+      url: /links/
+
+- name: B站
+  icon: fas fa-play-circle
+  url: https://space.bilibili.com/474000560
+  rel: external nofollow noopener noreferrer
+  target: _blank
+
+- name: 关于
+  icon: fas fa-file-code
+  url: https://baike.baidu.com/item/%E4%B8%89%E5%B3%A1%E5%A4%A7%E5%AD%A6%E6%B0%B4%E6%9E%9D%E5%A4%8F%E5%8A%A8%E6%BC%AB%E7%A4%BE/22504142?fr=aladdin
+  rel: external nofollow noopener noreferrer
+  target: _blank
+
+- name: 管理
+  icon: fas fa-ellipsis-v
+  rows:
+    - name: 网站后台
+      icon: fas fa-file-code
+      url: https://github.com/suishika/suishika.github.io
+    - name: 博文归档
+      icon: fas fa-pen-alt
+      url: /archives/

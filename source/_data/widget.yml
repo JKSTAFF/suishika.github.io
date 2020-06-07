@@ -1,0 +1,10 @@
+news:
+  class: list
+  display: [desktop, mobile] # [desktop, mobile]
+  header:
+    icon: fas fa-exclamation-triangle
+    title: 近期公告
+  rows:
+    - name: 关于主题与文档的更新
+      icon: fas fa-info-circle
+      url: https://github.com/suishika/suishika.github.io
